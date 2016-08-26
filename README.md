@@ -29,4 +29,3 @@ You can use the following snippets :
 - lp-tip (insert tip block)
 - lp-discussion (insert discussion block)
 - 
-You can see [Atom snippets](https://github.com/msurguy/leanpub-snippets/)  
