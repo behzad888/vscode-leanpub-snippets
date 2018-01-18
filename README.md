@@ -1,4 +1,6 @@
 # Markdown snippets for Leanpub in VSCode Editor
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbehzad888%2Fvscode-leanpub-snippets.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbehzad888%2Fvscode-leanpub-snippets?ref=badge_shield)
+
 
 I've created these snippets for Leanpub authors to quickly insert blocks of Leanpub friendly markdown into book manuscript using VSCode editor.
 
@@ -29,3 +31,7 @@ You can use the following snippets :
 - lp-tip (insert tip block)
 - lp-discussion (insert discussion block)
 - 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbehzad888%2Fvscode-leanpub-snippets.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbehzad888%2Fvscode-leanpub-snippets?ref=badge_large)
